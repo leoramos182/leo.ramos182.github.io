@@ -1,0 +1,32 @@
+*{
+    font-family: 'Bebas Neue', cursive;
+}
+div{
+    position: relative;
+    margin:  0 auto;
+    text-align: center;
+    display: inline-block;
+    width: fit-content;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.div-center{
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    height: fit-content;
+}
+.center-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+#clock, #clock2 , #clock3 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+}
