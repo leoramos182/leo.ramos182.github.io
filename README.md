@@ -10,5 +10,5 @@ https://leoramos182.github.io/Clock/
 https://leoramos182.github.io/sneakerhead/
 # Desafios usando flex e grid
 Link Surge
-FLEX https://godly-carriage.surge.sh/
-GRID https://royal-measure.surge.sh/
+- FLEX https://godly-carriage.surge.sh/
+- GRID https://royal-measure.surge.sh/
