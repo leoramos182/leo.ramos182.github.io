@@ -1,6 +1,6 @@
-# Labetube project
+# Labetube project (Estudo de grid e Flex)
 https://leoramos182.github.io/labetube/
-# Loja de bolos usando flex e grid
+# Loja de bolos (Estudo de grid e Flex)
 https://leoramos182.github.io/flex-grid/
 # Portfolio Project
 https://leoramos182.github.io/portfolio/
