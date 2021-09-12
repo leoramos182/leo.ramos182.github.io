@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/whatscopia/static/css/main.4d3f0dca.chunk.css",
+    "main.js": "/whatscopia/static/js/main.d1f30cc0.chunk.js",
+    "main.js.map": "/whatscopia/static/js/main.d1f30cc0.chunk.js.map",
+    "runtime-main.js": "/whatscopia/static/js/runtime-main.20852a96.js",
+    "runtime-main.js.map": "/whatscopia/static/js/runtime-main.20852a96.js.map",
+    "static/js/2.0a3f914e.chunk.js": "/whatscopia/static/js/2.0a3f914e.chunk.js",
+    "static/js/2.0a3f914e.chunk.js.map": "/whatscopia/static/js/2.0a3f914e.chunk.js.map",
+    "static/js/3.266b2cac.chunk.js": "/whatscopia/static/js/3.266b2cac.chunk.js",
+    "static/js/3.266b2cac.chunk.js.map": "/whatscopia/static/js/3.266b2cac.chunk.js.map",
+    "index.html": "/whatscopia/index.html",
+    "static/css/main.4d3f0dca.chunk.css.map": "/whatscopia/static/css/main.4d3f0dca.chunk.css.map",
+    "static/js/2.0a3f914e.chunk.js.LICENSE.txt": "/whatscopia/static/js/2.0a3f914e.chunk.js.LICENSE.txt",
+    "static/media/doublecheck.1814b93c.svg": "/whatscopia/static/media/doublecheck.1814b93c.svg",
+    "static/media/logo.6ce24c58.svg": "/whatscopia/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20852a96.js",
+    "static/js/2.0a3f914e.chunk.js",
+    "static/css/main.4d3f0dca.chunk.css",
+    "static/js/main.d1f30cc0.chunk.js"
+  ]
+}
