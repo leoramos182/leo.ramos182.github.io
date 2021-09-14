@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/labenu-form/static/css/main.a33b7d4a.chunk.css",
+    "main.js": "/labenu-form/static/js/main.2da77a1d.chunk.js",
+    "main.js.map": "/labenu-form/static/js/main.2da77a1d.chunk.js.map",
+    "runtime-main.js": "/labenu-form/static/js/runtime-main.c7b13bda.js",
+    "runtime-main.js.map": "/labenu-form/static/js/runtime-main.c7b13bda.js.map",
+    "static/js/2.033938a8.chunk.js": "/labenu-form/static/js/2.033938a8.chunk.js",
+    "static/js/2.033938a8.chunk.js.map": "/labenu-form/static/js/2.033938a8.chunk.js.map",
+    "static/js/3.77f84ed4.chunk.js": "/labenu-form/static/js/3.77f84ed4.chunk.js",
+    "static/js/3.77f84ed4.chunk.js.map": "/labenu-form/static/js/3.77f84ed4.chunk.js.map",
+    "index.html": "/labenu-form/index.html",
+    "static/css/main.a33b7d4a.chunk.css.map": "/labenu-form/static/css/main.a33b7d4a.chunk.css.map",
+    "static/js/2.033938a8.chunk.js.LICENSE.txt": "/labenu-form/static/js/2.033938a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7b13bda.js",
+    "static/js/2.033938a8.chunk.js",
+    "static/css/main.a33b7d4a.chunk.css",
+    "static/js/main.2da77a1d.chunk.js"
+  ]
+}
