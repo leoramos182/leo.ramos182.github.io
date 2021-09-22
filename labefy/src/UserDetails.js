@@ -1,9 +1,11 @@
-import './UserDetails.css'
 import React from "react";
 import styled from "styled-components";
 
 const DivUserDetails = styled.div`
-    margin:10px;
+    
+    p{
+        margin: 0;
+    }
 `
 const DivInformation = styled.div`
     display: flex;
@@ -11,7 +13,8 @@ const DivInformation = styled.div`
     font-weight: bold;
     p{
         margin-left: 8px;
-        font-weight: normal;
+        color: red;
+        font-size: 25px;
     }
 `
 export class UserDetails extends React.Component{
@@ -20,12 +23,12 @@ export class UserDetails extends React.Component{
         return <DivUserDetails>
             <h1>User Details</h1>
             <DivInformation>
-                <label htmlFor='userId'>User Id:</label>
-                <p id='userId'>{this.props.userId}</p>
-            </DivInformation>
-            <DivInformation>
                 <label htmlFor='userName'>User Name:</label>
                 <p id='userName'>{this.props.userName}</p>
+            </DivInformation>
+            <DivInformation>
+                <label htmlFor='userId'>User Id:</label>
+                <p id='userId'>{this.props.userId}</p>
             </DivInformation>
         </DivUserDetails>
     }
