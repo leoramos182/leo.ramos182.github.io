@@ -88,6 +88,7 @@ class App extends React.Component {
     userEmail: "",
     userId: "",
     searchUser: '',
+    clickName: '',
     inputEmailPlaceholder: "User Email",
     inputNamePlaceholder: "User Name",
     inputSearchPlaceholder: 'Search user',
@@ -166,12 +167,13 @@ class App extends React.Component {
     axios.get(url, {headers: {Authorization: 'leo-andrade-maryam'}})
     .then((response) => {
       this.setState({searchedUserNameList: response.data})
+      this.setState({searchUser: ''})
     })
     .catch((error) => {alert('erro teste')})
   }
   handleChangePage = (event) => {
     this.setState({userId: event.id})
-    this.setState({userName: event.name})
+    this.setState({clickName: event.name})
     this.setState({showUserDetails: !this.state.showUserDetails})
   }
   render(){
@@ -222,7 +224,7 @@ class App extends React.Component {
             {nameList}
             {SearchedName}
           </DivList>
-          {this.state.showUserDetails ? <UserDetails userName={this.state.userName} userId={this.state.userId}/> : null}
+          {this.state.showUserDetails ? <UserDetails userName={this.state.clickName} userId={this.state.userId}/> : null}
         </LabenusersContainer>
     );
   }
