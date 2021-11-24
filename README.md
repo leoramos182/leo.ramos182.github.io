@@ -1,9 +1,13 @@
+# Projeto WebApi2 (Consumo da API OMDb)
+- Angular
+- Typescript
+- Html
+- CSS
 # Projeto Labenusers
 https://versed-air.surge.sh/
 - React.js
 - Consumo de API Labenusers
 - Html/Css
-
 # Projeto Labenu forms
 https://complex-ground.surge.sh/
 # Projeto copia whatsapp
